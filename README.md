@@ -10,7 +10,7 @@ Clone this repository:
 
 bash
 
-- git clone https://github.com/your-username/task-manager-api.git
+- git clone https://github.com/dev-harshittamta/Task-Manager-API.git
 - Install the dependencies:
 - cd task-manager-api
 - npm install
